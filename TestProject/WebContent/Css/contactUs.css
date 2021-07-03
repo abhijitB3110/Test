@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.form {
+	display: flex;
+	flex-direction: column;
+}
+
+body {
+	background-color: cyan;
+}
